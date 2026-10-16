@@ -1,0 +1,15 @@
+{
+  "name": "openalex",
+  "version": "1.0.0",
+  "description": "OpenAlex MCP server for searching the free, open index of scholarly works across all fields, with their authors, institutions, sources and citations",
+  "author": {
+    "name": "OpenAlex",
+    "url": "https://openalex.org"
+  },
+  "mcpServers": {
+    "OpenAlex": {
+      "type": "http",
+      "url": "https://mcp.openalex.org/mcp"
+    }
+  }
+}

@@ -167,6 +167,13 @@
       "tags": ["research", "literature", "academic", "evidence-synthesis"]
     },
     {
+      "name": "openalex",
+      "source": "./openalex",
+      "description": "OpenAlex MCP server for searching the free, open index of scholarly works across all fields, with their authors, institutions, sources and citations",
+      "category": "life-sciences",
+      "tags": ["research", "literature", "academic", "citations"]
+    },
+    {
       "name": "cortellis",
       "source": "./cortellis",
       "description": "Cortellis Regulatory Intelligence MCP server by Clarivate for global drug regulatory data and intelligence",

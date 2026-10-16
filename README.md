@@ -74,6 +74,13 @@ AI-powered search across 200M+ peer-reviewed scientific research papers, with ev
 
 **Requirements**: Consensus account (https://consensus.app)
 
+#### OpenAlex
+**Plugin ID**: `openalex@life-sciences`
+
+Search the free, open index of scholarly works across all fields, with their authors, institutions, journals, funders and citations.
+
+**Requirements**: Free OpenAlex account (https://openalex.org)
+
 #### Cortellis Regulatory Intelligence (Clarivate)
 **Plugin ID**: `cortellis@life-sciences`
 
@@ -192,7 +199,7 @@ Restart to activate the MCP servers.
 ## Authentication Requirements
 
 - **No authentication**: PubMed
-- **Free account required**: BioRender, Synapse, Wiley Scholar Gateway, Consensus
+- **Free account required**: BioRender, Synapse, Wiley Scholar Gateway, Consensus, OpenAlex
 - **Paid/institutional account**: 10x Genomics (requires data in account to be useful), Cortellis, AdisInsight
 
 ## Support
